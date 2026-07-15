@@ -57,16 +57,10 @@
 
 - **ایمیل**: [sirgae.youfski@gmail.com](mailto:sirgae.youfski@gmail.com)
 - **شهر**: قشم، هرمزگان
-- **وضعیت**: در جستجوی فعال برای پروژه‌های جدید (حقوق مورد انتظار: از ۲۰,۰۰۰,۰۰۰ تومان)
+- **وضعیت**: در جستجوی فعال برای پروژه‌های جدید 
 
 ---
 
-## 📊 آمار گیت‌هاب
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ## ✨ نقل قول مورد علاقه
 
