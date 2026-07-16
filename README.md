@@ -39,7 +39,7 @@
 ### ابزارهای تحلیل داده و اسکرپینگ
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12-brightgreen?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-brightgreen?style=for-the-badge)
 
 ---
 
