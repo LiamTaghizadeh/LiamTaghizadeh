@@ -41,7 +41,7 @@
 </div>
 
 
-# 📚 در حال یادگیری
+# 📚 In learning Proccess :
 
 - Deep learning
 - ML
