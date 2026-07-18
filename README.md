@@ -1,68 +1,219 @@
-<div dir="rtl" align="right">
+<div align="center">
 
-# 👋 سلام! من اسماعیل تقی‌زاده هستم
+# 👋 سلام، من اسماعیل تقی‌زاده هستم
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-sirgae.youfski@gmail.com-D14836?logo=gmail)](mailto:sirgae.youfski@gmail.com)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql)]()
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analyst;Django+%7C+Flask+%7C+Docker;Always+Learning+New+Things" />
 
-> **توسعه‌دهنده نرم‌افزار** | **علاقه‌مند به هوش مصنوعی و تحلیل داده**  
-> *برنامه‌نویس و کدنویس با مهارت در کار تیمی و ذهنیت الگوریتمیک در حل مسائل و چالش‌های پیش رو*
+<p>
 
----
+<a href="mailto:sirgae.youfski@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 💡 درباره من
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
 
-- 🎓 دانشجوی **مهندسی کامپیوتر** در دانشگاه آزاد اسلامی واحد قشم (از مهر ۱۴۰۴ تا کنون).
-- 🎓 فارغ‌التحصیل **کاردانی علوم کامپیوتر** از دانشگاه فسا (معدل ۱۵).
-- 🏅 **مدرس پایتون** در دانشگاه فسا و سردبیر انجمن علوم کامپیوتر این دانشگاه.
-- 🌍 مسلط به زبان‌های فارسی (زبان مادری)، انگلیسی و روسی.
-- 🧠 عاشق تحلیل داده، کشف الگوهای پنهان و ساخت ابزارهای هوشمند با Python.
+</p>
+
+</div>
 
 ---
 
-## 🛠️ مهارت‌های فنی
+# 💫 About Me
 
-### زبان‌های برنامه‌نویسی و فریم‌ورک‌ها
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ابزارهای تحلیل داده و اسکرپینگ
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-brightgreen?style=for-the-badge)
+- 💻 Python Backend Developer
+- 🤖 علاقه‌مند به هوش مصنوعی و یادگیری ماشین
+- 📊 علاقه‌مند به تحلیل داده و Data Science
+- 🎓 دانشجوی مهندسی کامپیوتر دانشگاه آزاد اسلامی واحد قشم
+- 🎓 فارغ‌التحصیل کاردانی علوم کامپیوتر دانشگاه فسا
+- 👨‍🏫 مدرس Python و سردبیر انجمن علوم کامپیوتر دانشگاه فسا
+- 🚀 علاقه‌مند به توسعه سیستم‌های مقیاس‌پذیر
+- 🌱 همیشه در حال یادگیری تکنولوژی‌های جدید
+- 💼 آماده همکاری در پروژه‌های Python و Backend
 
 ---
 
-## 🧠 مهارت‌های نرم
+# 🚀 Tech Stack
 
-- **روابط عمومی** و **کار تیمی** قوی
-- **مهارت حل مسئله** و **تفکر استراتژیک**
-- **مسئولیت‌پذیری** و **پشتکار** بالا
-- توانایی **آموزش دادن** و **ارائه بازخورد** مؤثر
-- **تیم‌سازی** و **برنامه‌ریزی** منظم
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,docker,linux,postgres,redis,git,github,tensorflow,pytorch,opencv,mysql,sqlite,bash,vscode,pycharm&perline=6"/>
 
-## 📫 راه‌های ارتباطی
-
-- **ایمیل**: [sirgae.youfski@gmail.com](mailto:sirgae.youfski@gmail.com)
-- **وضعیت**: در جستجوی فعال برای پروژه‌های جدید 
+</div>
 
 ---
 
+# 💻 تخصص‌ها
 
-## ✨ نقل قول مورد علاقه
+✅ Python
 
-> *"The best way to predict the future is to invent it."* – Alan Kay
+✅ Django
+
+✅ Flask
+
+✅ FastAPI
+
+✅ REST API
+
+✅ Docker
+
+✅ Linux
+
+✅ PostgreSQL
+
+✅ Redis
+
+✅ Machine Learning
+
+✅ Deep Learning
+
+✅ TensorFlow
+
+✅ PyTorch
+
+✅ Data Analysis
+
+✅ Data Science
+
+✅ Web Scraping
+
+✅ Automation
+
+✅ OpenCV
+
+✅ Git & GitHub
+
+---
+
+# 📚 در حال یادگیری
+
+- Kubernetes
+- Microservices
+- CI/CD
+- Apache Kafka
+- RabbitMQ
+- Cloud Computing
+- System Design
+- Distributed Systems
+
+---
+
+# 🧠 Soft Skills
+
+- Problem Solving
+- Team Work
+- Leadership
+- Strategic Thinking
+- Communication
+- Time Management
+- Mentoring
+- Critical Thinking
+- Fast Learning
+
+---
+
+# 🌍 Languages
+
+🇮🇷 Persian (Native)
+
+🇬🇧 English (Professional)
+
+🇷🇺 Russian (Intermediate)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+# ⚡ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,docker,linux,postgres,redis,git,github,tensorflow,pytorch,vscode,pycharm"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- ⚙️ Backend Development
+- 🚀 High Performance APIs
+- 🐳 Docker Deployment
+- ☁️ Cloud Infrastructure
+
+---
+
+# 📫 Contact Me
+
+📧 Email
+
+**sirgae.youfski@gmail.com**
+
+💼 Available For
+
+- Remote Jobs
+- Freelance Projects
+- Backend Development
+- AI Projects
+- Machine Learning
+- Data Analysis
+
+---
+
+# 💬 Favorite Quote
+
+> **"The best way to predict the future is to invent it."**
+>
+> **— Alan Kay**
+
+---
+
+<div align="center">
+
+### ⚡ Code • Learn • Build • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:238636&section=footer"/>
 
 </div>
