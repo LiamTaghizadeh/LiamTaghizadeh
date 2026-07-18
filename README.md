@@ -40,57 +40,13 @@
 
 </div>
 
----
-
-# 💻 تخصص‌ها
-
-✅ Python
-
-✅ Django
-
-✅ Flask
-
-✅ FastAPI
-
-✅ REST API
-
-✅ Docker
-
-✅ Linux
-
-✅ PostgreSQL
-
-✅ Redis
-
-✅ Machine Learning
-
-✅ Deep Learning
-
-✅ TensorFlow
-
-✅ PyTorch
-
-✅ Data Analysis
-
-✅ Data Science
-
-✅ Web Scraping
-
-✅ Automation
-
-✅ OpenCV
-
-✅ Git & GitHub
-
----
 
 # 📚 در حال یادگیری
 
-- Kubernetes
-- Microservices
-- CI/CD
+- Deep learning
+- ML
+- Node js
 - Apache Kafka
-- RabbitMQ
 - Cloud Computing
 - System Design
 - Distributed Systems
@@ -141,17 +97,6 @@
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
