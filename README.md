@@ -81,7 +81,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamTaghizadeh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LiamTaghizadeh&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
 </div>
 
