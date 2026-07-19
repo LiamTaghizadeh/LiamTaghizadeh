@@ -4,13 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analyst;Django+%7C+Flask+%7C+Docker;Always+Learning+New+Things" />
 
-<p>
-
-<a href="mailto:sirgae.youfski@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 </div>
 
@@ -79,7 +72,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LiamTaghizadeh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamTaghizadeh&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -95,14 +88,6 @@
 
 </div>
 
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LiamTaghizadeh&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
-</div>
 
 ---
 
