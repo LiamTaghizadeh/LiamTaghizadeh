@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamTaghizadeh&theme=tokyonight&hide_border=true"/> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LiamTaghizadeh&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamTaghizadeh&theme=dark&hide_border=true"/>
+
 </div>
 
 
